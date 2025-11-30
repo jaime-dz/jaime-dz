@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A frontend developer and low-level developer from Spain</h3>
 
 - 🔭 I’m currently working on [ESIMarket](https://github.com/jaime-dz/ESIMarket)
 
